@@ -5,6 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a1835a04-109b-4169-a257-9ac3d39c86e3" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controllers/produto_controller.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/controllers/produto_controller.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/constructor/produtoConstructor.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/constructor/produtoConstructor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/DAO/fornecedor_dao.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/entitys/fornecedor.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/entitys/produto.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/entitys/produto.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/views/produto_view.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/produto_view.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

@@ -1,12 +1,12 @@
 from src.model.DAO.produtos_dao import Produtos_DAO
 class Produto:
 
-    def __init__(self,id_produto:int,nome:str,marca:str,unidade:int,id_fornecedor:int,valor:float):
+    def __init__(self,id_produto:int,nome:str,marca:str,unidade:int,valor:float):
         self.__id_produto=id_produto
         self.__nome=nome
         self.__marca=marca
         self.__unidade=unidade
-        self.__id_fornecedor=id_fornecedor
+
         self.__valor=valor
 
     @property
@@ -35,10 +35,6 @@ class Produto:
         return self.__id_produto
 
     @property
-    def id_fornecedor(self):
-        return self.__id_fornecedor
-
-    @property
     def valor(self):
         return self.__valor
 
@@ -56,7 +52,6 @@ class Produto:
             "nome":self.__nome,
             "marca":self.__marca,
             "unidade":self.__unidade,
-            "id_fornecedor":self.__id_fornecedor,
             "valor":self.__valor
         }
     @staticmethod
@@ -66,9 +61,6 @@ class Produto:
             data["nome"],
             data["marca"],
             data["unidade"],
-            data["id_fornecedor"],
             data["valor"]
         )
-if __name__ == '__main__':
-    p = Produtos_DAO
-    p=Produto(1,"arroz","camil",1,1,12.00)
+
