@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a1835a04-109b-4169-a257-9ac3d39c86e3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/SistemaLimpeza.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/python.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/pythonw.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/pyvenv.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requeriments.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controllers/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controllers/produto_controller.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/database/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/database/estoque.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/database/fornecerdor.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/database/funcionario.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/database/produto.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/infrastructure/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/infrastructure/services/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/infrastructure/services/geradorID.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/constructor/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/constructor/produtoConstructor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/handleProcess.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/DAO/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/DAO/base_db.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/DAO/estoque_dao.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/DAO/fornecedor_dao.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/DAO/funcionario_DAO.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/DAO/produtos_dao.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/entitys/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/entitys/estoque.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/entitys/fornecedor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/entitys/funcionario.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/entitys/movimentacao.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/entitys/produto.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/entitys/sala.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/produto_view.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="3D4kfJgY8wyoAwQ6S4nxB4mOjmq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.app.executor": "Run",
+    "Python.base_db.executor": "Run",
+    "Python.estoque_dao.executor": "Run",
+    "Python.geradorID.executor": "Run",
+    "Python.handleProcess.executor": "Run",
+    "Python.produto.executor": "Run",
+    "Python.produtoConstructor.executor": "Run",
+    "Python.produto_controller.executor": "Run",
+    "Python.produto_view.executor": "Run",
+    "Python.produtos_dao.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-1bde30d8e611-7b97d883f26b-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.25557.130" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a1835a04-109b-4169-a257-9ac3d39c86e3" name="Changes" comment="" />
+      <created>1777548831403</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1777548831403</updated>
+    </task>
+    <servers />
+  </component>
+</project>
