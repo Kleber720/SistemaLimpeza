@@ -5,47 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a1835a04-109b-4169-a257-9ac3d39c86e3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/SistemaLimpeza.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Scripts/python.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Scripts/pythonw.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/pyvenv.cfg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requeriments.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controllers/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controllers/produto_controller.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/database/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/database/estoque.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/database/fornecerdor.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/database/funcionario.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/database/produto.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/infrastructure/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/infrastructure/services/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/infrastructure/services/geradorID.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/constructor/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/constructor/produtoConstructor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/handleProcess.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/DAO/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/DAO/base_db.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/DAO/estoque_dao.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/DAO/fornecedor_dao.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/DAO/funcionario_DAO.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/DAO/produtos_dao.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/entitys/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/entitys/estoque.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/entitys/fornecedor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/entitys/funcionario.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/entitys/movimentacao.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/entitys/produto.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/entitys/sala.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/produto_view.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/produto_view.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/produto_view.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,25 +30,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.app.executor": "Run",
-    "Python.base_db.executor": "Run",
-    "Python.estoque_dao.executor": "Run",
-    "Python.geradorID.executor": "Run",
-    "Python.handleProcess.executor": "Run",
-    "Python.produto.executor": "Run",
-    "Python.produtoConstructor.executor": "Run",
-    "Python.produto_controller.executor": "Run",
-    "Python.produto_view.executor": "Run",
-    "Python.produtos_dao.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.app.executor&quot;: &quot;Run&quot;,
+    &quot;Python.base_db.executor&quot;: &quot;Run&quot;,
+    &quot;Python.estoque_dao.executor&quot;: &quot;Run&quot;,
+    &quot;Python.geradorID.executor&quot;: &quot;Run&quot;,
+    &quot;Python.handleProcess.executor&quot;: &quot;Run&quot;,
+    &quot;Python.produto.executor&quot;: &quot;Run&quot;,
+    &quot;Python.produtoConstructor.executor&quot;: &quot;Run&quot;,
+    &quot;Python.produto_controller.executor&quot;: &quot;Run&quot;,
+    &quot;Python.produto_view.executor&quot;: &quot;Run&quot;,
+    &quot;Python.produtos_dao.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>

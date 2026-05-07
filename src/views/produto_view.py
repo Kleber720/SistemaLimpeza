@@ -1,7 +1,7 @@
 from flet import *
 
 
-class ProdutoView:
+class ProdutoView(View):
 
     def __init__(self):
         super().__init__()
