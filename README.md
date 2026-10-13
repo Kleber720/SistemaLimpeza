@@ -1,5 +1,7 @@
 # SistemaLimpeza
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flet](https://img.shields.io/badge/Flet-6B5BDB?style=flat-square) ![JSON](https://img.shields.io/badge/JSON-45556C?style=flat-square)
+
 Sistema de gerenciamento para controle de estoque de produtos e de funcionários. Foi desenvolvido em Python e utiliza o framework [Flet](https://flet.dev/) para a interface gráfica, armazenando os dados localmente em arquivos JSON.
 
 ## Funcionalidades
@@ -15,7 +17,7 @@ Sistema de gerenciamento para controle de estoque de produtos e de funcionários
 * `src/main/`: Contém os processos principais da aplicação e as rotinas de interface de usuário.
 * `src/model/DAO/`: Classes de acesso aos dados (Data Access Objects) como `Produtos_DAO` e `Funcionario_DAO` responsáveis pelas operações de CRUD nos arquivos JSON.
 * `src/infrastructure/services/`: Serviços auxiliares (ex: `geradorID.py` para criar chaves primárias).
-* `src/database/`: Diretório onde os arquivos JSON (`funcionarios.json`, `produto.json`, `estoque.json`) ficam armazenados para simular um banco de dados.
+* `src/database/`: Diretório onde os arquivos JSON (`funcionario.json`, `produto.json`, `estoque.json`) ficam armazenados para simular um banco de dados.
 
 ## Tecnologias Utilizadas
 
@@ -40,3 +42,8 @@ Sistema de gerenciamento para controle de estoque de produtos e de funcionários
    ```
 
 *Desenvolvido como um projeto prático para a gestão de recursos.*
+
+
+---
+
+[← Portfólio de Kleber Amaro](https://github.com/Kleber720) · [Todos os repositórios](https://github.com/Kleber720?tab=repositories)
